@@ -28,7 +28,7 @@ to scalable backend services and modern web frontends.
 - 🔧 Interested in **full-stack systems**, embedded software, and digital design
 - 🌱 Currently learning **Ruby on Rails** and **Docker**
 
-📍 **Brampton, Ontario**
+📍 **Greater Toronto Area, Ontario**
 
 ---
 
