@@ -6,7 +6,7 @@ Full Stack Software • Embedded Systems • ASIC / FPGA
 </h3>
 
 <p align="center">
-Building systems across hardware and software — from digital logic and embedded firmware <br/>
+Building systems across hardware and software, from digital logic and embedded firmware <br/>
 to scalable backend services and modern web frontends.
 </p>
 
