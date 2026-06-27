@@ -77,9 +77,10 @@ Currently learning **Ruby on Rails** and **Docker**.
 
 | Period | Role | Organization |
 |--------|------|-------------|
-| 2024 – present | Graduate Researcher · M.Eng | Toronto Metropolitan University |
-| 2024 | Full Stack Developer | Vosyn — AI multilingual dubbing platform (VosynVerse) |
-| 2023 | Full Stack Developer | CraftPitch International Inc. |
+| 2025 – present | Graduate Researcher · M.Eng | Toronto Metropolitan University |
+| 2024-2026 | Full Stack Developer (Freelance) | CraftPitch International Inc. |
+| 2024 | Full Stack Developer Intern | Vosyn — AI multilingual dubbing platform (VosynVerse) |
+| 2023 | Full Stack Developer Intern | CraftPitch International Inc. |
 | 2023 | Software Developer | Ontario Learning Development Foundation |
 
 ---
