@@ -7,7 +7,7 @@
 # Full Stack · Embedded · FPGA
 
 **M.Eng ECE @ Toronto Metropolitan University**  
-Building systems across the stack — from digital logic and firmware to scalable backends and modern frontends.
+Building systems across the stack: from digital logic and firmware to scalable backends and modern frontends.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsahibmatharoo)
 [![Email](https://img.shields.io/badge/Email-harsahib01%40hotmail.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:harsahib01@hotmail.com)
