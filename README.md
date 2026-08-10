@@ -79,7 +79,7 @@ Currently learning **Ruby on Rails** and **Docker**.
 |--------|------|-------------|
 | 2025 – present | Graduate Researcher · M.Eng | Toronto Metropolitan University |
 | 2024-2026 | Full Stack Developer (Freelance) | CraftPitch International Inc. |
-| 2024 | Full Stack Developer Intern | Vosyn — AI multilingual dubbing platform (VosynVerse) |
+| 2024 | Full Stack Developer Intern | Vosyn : AI multilingual dubbing platform (VosynVerse) |
 | 2023 | Full Stack Developer Intern | CraftPitch International Inc. |
 | 2023 | Software Developer | Ontario Learning Development Foundation |
 
@@ -99,11 +99,6 @@ Android app + Raspberry Pi firmware for Bluetooth-based door access, with Fireba
 
 ---
 
-### ⚡ Pipelined FIR Filter (FPGA)
-RTL implementation of a pipelined FIR filter in SystemVerilog with a self-checking testbench. Built as a portfolio project targeting entry-level FPGA/RTL roles.  
-`SystemVerilog` `FPGA` `RTL`
-
----
 
 ### 📡 GPU-Accelerated IMU Spectral Analysis
 GPU vs. CPU benchmark for spectral feature extraction from a BMI270 IMU sensor using CuPy-based FFT. Research published as an IEEE-formatted conference paper.  
